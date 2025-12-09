@@ -1,0 +1,216 @@
+{
+  "subjects": [
+    {
+      "name": "Science",
+      "exam_date": "2026-01-13",
+      "difficulty": 3,
+      "past_score": 60,
+      "recommended_hours": 24,
+      "hours_completed": 3.0,
+      "daily_study_hours": 3.0
+    },
+    {
+      "name": "English",
+      "exam_date": "2026-01-25",
+      "difficulty": 2,
+      "past_score": 75,
+      "recommended_hours": 15,
+      "hours_completed": 0,
+      "daily_study_hours": 2.0
+    }
+  ],
+  "study_sessions": [
+    {
+      "subject": "Science",
+      "date": "2025-12-09",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": true
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-09",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": true
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-10",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-10",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-11",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-11",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-12",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-12",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-15",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-15",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-16",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-16",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-17",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-17",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-18",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "Science",
+      "date": "2025-12-18",
+      "start_time": "13:00",
+      "end_time": "14:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-19",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-22",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-23",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-24",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-25",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-26",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-29",
+      "start_time": "09:00",
+      "end_time": "11:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    },
+    {
+      "subject": "English",
+      "date": "2025-12-30",
+      "start_time": "09:00",
+      "end_time": "10:00",
+      "notes": "Auto-scheduled",
+      "completed": false
+    }
+  ]
+}
